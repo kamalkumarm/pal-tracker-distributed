@@ -1,0 +1,7 @@
+http://registration-pal-distributed-am-dv.apps.evans.pal.pivotal.io/users/1
+http://registration-pal-distributed-am-dv.apps.evans.pal.pivotal.io/accounts?ownerId=1
+http://registration-pal-distributed-am-dv.apps.evans.pal.pivotal.io/projects?accountId=1
+http://allocations-pal-distributed-am-dv.apps.evans.pal.pivotal.io/allocations?projectId=2
+http://backlog-pal-distributed-am-dv.apps.evans.pal.pivotal.io/stories?projectId=2
+http://timesheets-pal-distributed-am-dv.apps.evans.pal.pivotal.io/time-entries?userId=2
+
